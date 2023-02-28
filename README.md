@@ -6,6 +6,8 @@ and algorithms such as:
 ### Data Structures
 
 - LinkedList
+- Stack
+- Queue
 
 I have made this repo so that I can come back to it for in the future for quick
 review on these concepts.
