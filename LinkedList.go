@@ -1,14 +1,6 @@
-package main
+package dsa
 
-// First we need to create a representation of a node
-// which is going to store a value and a reference to
-// the next node in the linkedlist.
-type Node struct {
-	value int
-	next  *Node
-}
-
-// Next we need a starting point for our linkedlist construction
+// We need a starting point for our linkedlist construction
 type List struct {
 	head *Node
 }
